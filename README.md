@@ -1,4 +1,4 @@
-# Estacion-metereologica--- Grupo-Tempanos
+# Estacion-metereologic--- Grupo-Tempanos
 ## Integrantes: Matías Torres, Marcos Romero, Sofia Brizuela, Yair Gallay, Franco Leone y Bautista Grinóvero.
 
 ## Descripción
