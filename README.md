@@ -6,7 +6,7 @@ Este proyecto tiene como objetivo investigar cómo se realizan las observaciones
 
 
 ## Estado del proyecto
-Estamos en desarrollo.
+Estamos en desarrollo..
 
 
 ### Objetivos
