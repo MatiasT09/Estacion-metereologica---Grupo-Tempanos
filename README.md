@@ -1,12 +1,12 @@
 # Estacion-metereologica--- Grupo-Tempanos
-## Integrantes: Matías Torres, Marcos Romero, Sofia Brizuela, Yair Gallay, Franco Leone y Bautista Grinovero
+## Integrantes: Matías Torres, Marcos Romero, Sofia Brizuela, Yair Gallay, Franco Leone y Bautista Grinóvero.
 
 ## Descripción
 Este proyecto tiene como objetivo investigar cómo se realizan las observaciones meteorológicas, cómo se recopilan los datos atmosféricos y cómo se elaboran los pronósticos del tiempo.
 
 
 ## Estado del proyecto
-Estamos en desarrollo..
+Estamos en desarrollo.
 
 
 ### Objetivos
